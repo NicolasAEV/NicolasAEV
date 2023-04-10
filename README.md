@@ -1,16 +1,29 @@
-### Hi there 👋
+### ¡Hola! Soy Nicolás Escobar 👋
 
-<!--
-**NicolasAEV/NicolasAEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Connect](https://img.shields.io/badge/Conéctate%20conmigo-en%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolás-alejandro-escobar-villegas/)
+[![GitHub Follow](https://img.shields.io/github/followers/nicolasecobarcl?label=Sígueme%20en%20GitHub&style=for-the-badge&logo=github)](https://github.com/NicolasAEV)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 Soy Desarrollador Web Junior con experiencia en Fullstack en JavaScript. Me apasiona aprender nuevas tecnologías y colaborar en proyectos innovadores.
+
+👨‍🎓 Estudié Ingeniería en Informática en la Universidad Tecnológica de Inacap.
+
+📚 Actualmente, estoy aprendiendo nuevas herramientas para ampliar mis habilidades en desarrollo de software , como React y Angular.
+
+⚡️ He trabajado en proyectos utilizando Java, PHP, Node.js y JavaScript Vanilla en Backend.
+
+---
+
+#### Lenguajes y herramientas:
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=000000)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=ffffff)
+
+---
+
+⭐️ ¡Gracias por visitar mi perfil de GitHub! Si te gustan mis proyectos, por favor dale una ⭐️ a los repositorios que te gusten. ¡Eso me ayudará mucho!
