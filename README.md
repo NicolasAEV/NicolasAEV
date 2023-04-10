@@ -1,5 +1,7 @@
-### ¡Hola! Soy Nicolás Escobar 👋
 
+<p align="center"> ### ¡Hola! Soy Nicolás Escobar 👋</p>
+
+Fuente: https://www.iteramos.com/pregunta/34047/github-readmemd-imagen-central
 [![LinkedIn Connect](https://img.shields.io/badge/Conéctate%20conmigo-en%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolás-alejandro-escobar-villegas/)
 [![GitHub Follow](https://img.shields.io/github/followers/nicolasecobarcl?label=Sígueme%20en%20GitHub&style=for-the-badge&logo=github)](https://github.com/NicolasAEV)
 
@@ -9,7 +11,7 @@
 
 👨‍🎓 Estudié Ingeniería en Informática en la Universidad Tecnológica de Inacap.
 
-📚 Actualmente, estoy aprendiendo nuevas herramientas para ampliar mis habilidades en desarrollo de software , como React y Angular.
+📚 Actualmente, estoy aprendiendo nuevas herramientas para ampliar mis habilidades en desarrollo de software como React , Angular y mongodb.
 
 ⚡️ He trabajado en proyectos utilizando Java, PHP, Node.js y JavaScript Vanilla en Backend.
 
@@ -26,4 +28,4 @@
 
 ---
 
-⭐️ ¡Gracias por visitar mi perfil de GitHub! Si te gustan mis proyectos, por favor dale una ⭐️ a los repositorios que te gusten. ¡Eso me ayudará mucho!
+⭐️ ¡Espero que te haya gustado mi perfil! Si te gustan mis proyectos, por favor dale una ⭐️ a los repositorios que te gusten. ¡Eso me ayudará mucho!
