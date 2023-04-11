@@ -1,5 +1,5 @@
 
-# Hi there, I'm Nicolas Escobar! 👋
+<h1 align="center"> Hi there, I'm Nicolas Escobar! 👋 </h1>
 
 ## 🚀 About Me
 
