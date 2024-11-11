@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 <p align="left">
-  <img src="https://media.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy.gif?cid=790b7611w0or00wdhncio8k8x1nhncnbihqxd8cta1fc2zn8&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="200" align="left" style="margin-right: 10px;"/>
+  <img src="https://media.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy.gif?cid=790b7611w0or00wdhncio8k8x1nhncnbihqxd8cta1fc2zn8&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="200" align="left" style="margin-right: 20px;"/>
   I'm a full-stack developer with experience in building scalable, resilient applications, specializing in microservices architecture and SaaS integrations. I focus on performance optimization and continuous improvement of complex systems. Currently, I'm working on building my portfolio and contributing to open-source projects to expand my skills.
 </p>
 
