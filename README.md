@@ -5,6 +5,7 @@
 ---
 
 ## 🚀 About Me
+
 <p align="left">
   <img src="https://media.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy.gif?cid=790b7611w0or00wdhncio8k8x1nhncnbihqxd8cta1fc2zn8&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="200" align="left" style="margin: 20px;"/>
   I'm a full-stack developer with experience in building scalable, resilient applications, specializing in microservices architecture and SaaS integrations. I focus on performance optimization and continuous improvement of complex systems. Currently, I'm working on building my portfolio and contributing to open-source projects to expand my skills.
@@ -34,7 +35,6 @@
 
 ## 📂 Featured Projects [ in progress ] 
 
-
 ---
 
 ## 🎓 Education
@@ -49,3 +49,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/nicolás-alejandro-escobar-villegas/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/NicolasAEV)
 
+You can check out my portfolio here: [Portfolio](https://portafolio-naev.vercel.app/)
