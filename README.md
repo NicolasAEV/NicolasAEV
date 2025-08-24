@@ -1,65 +1,106 @@
-# 👋 Hola, soy Nicolás Escobar  
+# 👋 Hi, I'm Nicolas Escobar
 
-**Software Engineer | Full Stack Developer | Arquitectura de Microservicios & Cloud**  
+**Software Engineer | Full Stack Developer | Builder of Scalable Systems**
 
 ---
 
-## 🚀 Sobre mí  
+## 🚀 About Me
 
 <p align="left">
-  <img src="https://media.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy.gif?cid=790b7611w0or00wdhncio8k8x1nhncnbihqxd8cta1fc2zn8&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="200" align="left" style="margin: 20px;"/>
-  Soy un ingeniero de software con experiencia en el desarrollo de aplicaciones **backend y frontend**, especializado en **arquitecturas de microservicios, autenticación JWT y sistemas distribuidos**.  
-  Me apasiona el diseño de **bases de datos relacionales (PostgreSQL, MySQL, Oracle)**, la optimización de consultas y la integración de **Docker, CI/CD y patrones de resiliencia** en los proyectos que desarrollo.  
-  Actualmente, estoy construyendo mi **portafolio profesional** y trabajando en proyectos que combinan **Java, NestJS, Angular, React y TypeScript**.
-</p>  
+  <img
+    src="https://media.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy.gif?cid=790b7611w0or00wdhncio8k8x1nhncnbihqxd8cta1fc2zn8&ep=v1_gifs_trending&rid=giphy.gif&ct=g"
+    width="200"
+    align="left"
+    alt="Coding cat typing on a laptop"
+    style="margin: 20px;"
+  />
+</p>
+
+I’m **Nicolas Escobar Villegas**, a software engineer from Chile 🇨🇱 with solid experience in **designing and developing full stack applications**.  
+I specialize in **Java (Spring Boot), Angular, Node.js, and microservices architecture**, always aiming for scalable, resilient, and maintainable systems.  
+
+My passion lies in **system design, performance optimization, and API-driven development**.  
+I thrive when building software that not only works but grows with the business.  
 
 ---
 
-- 🔭 Desarrollando **microservicios con Spring Boot y NestJS**.  
-- 🌱 Aprendiendo **profundamente Angular, arquitectura en la nube y Kubernetes**.  
-- ⚡ Interesado en **arquitectura de software, sistemas financieros y criptomonedas**.  
-- 💬 Disfruto conversar sobre **diseño de sistemas, patrones de diseño y optimización de rendimiento**.  
+## 💼 Professional Experience
+
+### **InAdvanced**  
+*Full Stack Developer | 2025 – Present*  
+- Developing **full stack applications** with **Java 21 (Spring Boot)** and **Angular** for **HR and project management**.  
+- Implementing **REST APIs** using **microservices, Spring Security + JWT, and PostgreSQL**.  
+- Optimizing employee lifecycle processes and cost center management.  
+- Applying **design patterns**, centralized exception handling, and **AOP-based logging**.  
+- Standardizing solutions with **Swagger**, ensuring scalability and maintainability.  
 
 ---
 
-## 🛠 Habilidades  
+### **Parque del Recuerdo – Open2000**  
+*Full Stack Developer | 2023 – 2025*  
+- Built applications with **Java, Node.js, NestJS, and Angular**.  
+- Focused on **microservices architecture** and SaaS integrations (e.g., **Microsoft Business Central**).  
+- Implemented **resilience and design patterns** to ensure scalability and fault tolerance.  
+- Improved system performance and streamlined **inter-microservice communication** for reliable data synchronization.  
 
-### **Backend**  
+---
+
+### **Freelance**  
+*Full Stack Developer | 2022 – 2023*  
+- Created **scalable microservices and APIs** tailored to client needs.  
+- Developed and customized **WordPress websites** to increase traffic and visibility.  
+- Enhanced **application and site performance**, delivering effective solutions to improve UX and system efficiency.  
+
+---
+
+### **Sercotec – Osorno**  
+*Software Developer Intern | 2021*  
+- Designed and developed websites for **SERCOTEC Osorno**, focusing on **UX/UI improvements**.  
+- Optimized performance for **mobile and desktop platforms**, ensuring smooth navigation.  
+- Improved structure and design, resulting in higher web traffic and better local user engagement.  
+
+---
+
+## 🛠 Tech Toolbox
+
+### **Backend**
+- Microservices design, resilience patterns, SQL optimization  
 - Java (Spring Boot, JPA, Hibernate)  
 - Node.js (NestJS, TypeORM)  
 - PHP  
 
-### **Frontend**  
+### **Frontend**
 - Angular (standalone components, Angular Material)  
-- React con Tailwind  
-- JavaScript, HTML5, CSS3  
+- React + Tailwind CSS  
+- JavaScript (ES6+), HTML5, CSS3  
 
-### **Bases de Datos**  
-- PostgreSQL, MySQL, Oracle  
+### **Databases**
+- PostgreSQL (favorite ❤️), MySQL, Oracle  
 - MongoDB  
 
-### **DevOps & Cloud**  
+### **DevOps & Cloud**
 - Docker & Docker Compose  
 - CI/CD (Jenkins, GitHub Actions)  
-- Arquitectura con API Gateway, RabbitMQ, gRPC  
-- Kubernetes (aprendiendo)  
+- API Gateway (Spring Cloud Gateway), RabbitMQ, gRPC  
+- Learning Kubernetes 🚀  
 
-### **Metodologías & Herramientas**  
+### **Tools & Methodologies**
 - Git, VS Code, Postman  
 - Agile (Scrum, Kanban)  
-- Diseño de microservicios, patrones de resiliencia, optimización SQL  
----
-
-## 🎓 Educación  
-
-- **Ingeniería en Computación e Informática** – Universidad Tecnológica de Inacap  
-- **Bootcamp Fullstack JavaScript** – Talento Digital  
+- Microservices design, resilience patterns, SQL optimization  
 
 ---
 
-## 🤝 Conecta conmigo  
+## 🎓 Education
+
+- 🎓 **Bachelor’s in Computer Engineering** – Universidad Tecnológica de Inacap  
+- 🏆 **Fullstack JavaScript Bootcamp** – Talento Digital  
+
+---
+
+## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/nicolás-alejandro-escobar-villegas/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/NicolasAEV)  
 
-🌐 Mira mi portafolio: [Portfolio](https://portafolio-naev.vercel.app/)  
+🌐 Explore my portfolio: [Portfolio](https://portafolio-naev.vercel.app/)
