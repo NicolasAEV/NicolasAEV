@@ -29,6 +29,10 @@
 
 ## About Me
 
+Software Engineer from Chile 🇨🇱 with 3+ years of experience designing and building **microservices and REST APIs**. I work with Node.js (NestJS) and Java (Spring Boot), always focused on clean architecture, SOLID principles, and writing code that's easy to maintain and scale.
+
+I enjoy solving real business problems through well-structured backend systems — and lately I've been exploring the AI tooling space, building open-source MCP servers that bring documentation intelligence to AI agents like GitHub Copilot and Claude.
+
 ```typescript
 const nicolas = {
   role:        "Backend Developer",
