@@ -1,9 +1,14 @@
+
+<div align="center">
+<h1>Nicolas Escobar Villegas</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%87%A8%F0%9F%87%B1;NestJS+%C2%B7+Node.js+%C2%B7+Spring+Boot;Clean+Architecture+%26+Microservices;Open+to+Remote+Opportunities+%F0%9F%8C%8E" alt="Typing SVG" />
+
+
+</div>
+
 <div align="center">
 
-# Nicolas Escobar
-### Backend Developer · NestJS / Node.js / Spring Boot · 🇨🇱 Remote LATAM
-
-<p>
+<p><!-- badges -->
   <a href="https://www.linkedin.com/in/nicolas-alejandro-escobar-villegas/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -28,6 +33,8 @@
 ---
 
 ## About Me
+
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Hackerman" />
 
 Software Engineer from Chile 🇨🇱 with 3+ years of experience designing and building **microservices and REST APIs**. I work with Node.js (NestJS) and Java (Spring Boot), always focused on clean architecture, SOLID principles, and writing code that's easy to maintain and scale.
 
@@ -113,4 +120,14 @@ const nicolas = {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=NicolasAEV&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140" alt="Cat programming" />
+  <br/>
+  <sub><i>me reviewing my own PR</i></sub>
+  <br/><br/>
+  <sub>Thanks for visiting! ⭐ Star something if you liked it</sub>
 </div>
