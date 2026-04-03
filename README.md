@@ -55,7 +55,7 @@ const nicolas = {
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
